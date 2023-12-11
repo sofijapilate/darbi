@@ -1,6 +1,16 @@
-body{
-    display: flex;
-justify-content: center;
-align-items: center;
-height: 100vh;
+
+.pirmais{
+    background-color: rgb(53, 75, 117);
+    color: rgb(223, 219, 213);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    : center;
+}
+.otrais{
+    background-color: rgb(53, 75, 117);
+    color: rgb(223, 219, 213);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+
+}
+.img{
+   
 }
