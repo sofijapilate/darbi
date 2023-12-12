@@ -1,16 +1,17 @@
 
-.pirmais{
-    background-color: rgb(53, 75, 117);
-    color: rgb(223, 219, 213);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    : center;
-}
 .otrais{
     background-color: rgb(53, 75, 117);
-    color: rgb(223, 219, 213);
-    font-family: Georgia, 'Times New Roman', Times, serif; 
-
+    color: rgb(223, 219, 213); 
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.img{
-   
+.mainCarousel{ 
+align-items: right;
+}
+.tresais{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 50px;
+}
+p{
+    margin-left: 50px;
 }
